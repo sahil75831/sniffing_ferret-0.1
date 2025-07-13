@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sahil75831/sniffing_ferret-0.1/blob/main/logo.png" width="150" alt="Sniffing Ferret Logo" />
+  <img src="/logo.png" width="150" alt="Sniffing Ferret Logo" />
 </p>
 
 
